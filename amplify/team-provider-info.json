@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextjsredditclone-staging-172949-authRole",
+      "UnauthRoleArn": "arn:aws:iam::589340855746:role/amplify-nextjsredditclone-staging-172949-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::589340855746:role/amplify-nextjsredditclone-staging-172949-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-nextjsredditclone-staging-172949-deployment",
+      "UnauthRoleName": "amplify-nextjsredditclone-staging-172949-unauthRole",
+      "StackName": "amplify-nextjsredditclone-staging-172949",
+      "StackId": "arn:aws:cloudformation:eu-central-1:589340855746:stack/amplify-nextjsredditclone-staging-172949/fc1e7b20-f62d-11ec-821d-0670b1440d40",
+      "AmplifyAppId": "d26ldob9t7lswq"
+    }
+  }
+}
